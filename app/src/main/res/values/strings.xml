@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sleep Prompt</string>
+
+    <string name="info"><b>If your screen is ON</b> at the given time, you\'ll be prompted to sleep.\n<b>Turn OFF your screen</b>
+        to remove the prompt.</string>
+    <string name="begin">Let\'s go!</string>
+    <string name="stop">Stop the prompts</string>
+    <string name="prompt_remove_info">Turn OFF your screen to remove this :)</string>
+    <string name="rate_review">Rate and review! Thanks</string>
+</resources>
